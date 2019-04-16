@@ -1,0 +1,174 @@
+[
+ {
+ "name": "SettingActivity_Title",
+ "text": "Aide Assistant"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Xposed",
+ "text": "Xposed settings"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_XposedEnable",
+ "text": "Enable Xposed function"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_UnlockPremiumEnable",
+ "text": "Enable Pro function"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_AutoRotateEnable",
+ "text": "turn off automatic rotation"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_ActionBarIconEnable",
+ "text": "Hide the top bar icon"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Theme",
+ "text": "theme"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Theme_Status_TextColor",
+ "text": "Status bar dark icon"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_ThemeSettings",
+ "text": "Setting the theme"
+ },
+ {
+ "name": "ThemeActivity_Title",
+ "text": "Theme settings"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_ThemeMode",
+ "text": "Day theme"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_StatusColor",
+ "text": "Status Bar Color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_BackgroundColor",
+ "text": "main background color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_ActionBarColor",
+ "text": "Title bar color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_IconColor",
+ "text": "Title bar icon color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_TitleColor",
+ "text": "Title bar text color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_OtherColor",
+ "text": "emphasis color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_Sub_OtherColor",
+ "text": "sub-emphasis color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_Item_BackgroundColor",
+ "text": "list background color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_Item_TitleColor",
+ "text": "list header text color"
+ },
+ {
+ "name": "ThemeActivity_RecyclerView_Item_TextColor",
+ "text": "list description text color"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_Title",
+ "text": "color"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_Positive",
+ "text": "OK"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_Negative",
+ "text": "Cancel"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Edit",
+ "text": "Click \nCustom Color"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Alpha",
+ "text": "transparent:"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Red",
+ "text": "red:"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Green",
+ "text": "green:"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Blue",
+ "text": "blue:"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Edit_Title",
+ "text": "color"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Edit_Positive",
+ "text": "OK"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Edit_Negative",
+ "text": "Cancel"
+ },
+ {
+ "name": "ThemeActivity_setThemeColor_Dialog_view_Edit_Text",
+ "text":"Example: #009688"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other",
+ "text": "other"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language",
+ "text": "language"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_Title",
+ "text": "Select language"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_Developer",
+ "text": "developer:"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_VersionName",
+ "text": "Version:"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_Positive",
+ "text": "Check language pack update"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_Negative",
+ "text": "Cancel"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_Neutral",
+ "text": "More language packs"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_DownloadString_Title",
+ "text": "Download language pack"
+ },
+ {
+ "name": "SettingActivity_RecyclerView_Other_Language_Dialog_DownloadString_Succuss",
+ "text": "The language pack was successfully installed"
+ }
+ ]
