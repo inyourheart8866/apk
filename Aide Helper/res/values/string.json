@@ -18,5 +18,15 @@
 	"country":"US",
 	"developer":"pengzhichao8866",
 	"url":"https://raw.githubusercontent.com/inyourheart8866/apk/master/Aide%20Helper/res/values-en-rUS-1/string.json"
+},
+{
+	"id":1,
+	"versionName":"1.0",
+	"versionCode":1,
+	"name":"中文繁體",
+	"language":"zh",
+	"country":"TW",
+	"developer":"pengzhichao8866",
+	"url":"https://raw.githubusercontent.com/inyourheart8866/apk/master/Aide%20Helper/res/values-zh-rTW-3/string.json"
 }
 ]
