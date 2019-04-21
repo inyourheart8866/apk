@@ -1,8 +1,8 @@
 [
 {
 	"id":0,
-	"versionName":"1.0",
-	"versionCode":1,
+	"versionName":"2.0",
+	"versionCode":2,
 	"name":"中文简体",
 	"language":"zh",
 	"country":"CN",
@@ -11,8 +11,8 @@
 },
 {
 	"id":1,
-	"versionName":"1.0",
-	"versionCode":1,
+	"versionName":"2.0",
+	"versionCode":2,
 	"name":"English",
 	"language":"en",
 	"country":"US",
@@ -21,8 +21,8 @@
 },
 {
 	"id":2,
-	"versionName":"1.0",
-	"versionCode":1,
+	"versionName":"2.0",
+	"versionCode":2,
 	"name":"中文繁體",
 	"language":"zh",
 	"country":"TW",
