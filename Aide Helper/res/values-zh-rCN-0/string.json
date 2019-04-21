@@ -24,6 +24,14 @@
 		"text":"隐藏顶栏图标"
 	},
 	{
+		"name":"SettingActivity_RecyclerView_CompatInstall",
+		"text":"替换原有root安装方式"
+	},
+	{
+		"name":"SettingActivity_RecyclerView_CompatInstall_Text",
+		"text":"使安装兼容Android P(Android 9/SDK 28)"
+	},
+	{
 		"name":"SettingActivity_RecyclerView_Theme",
 		"text":"主题"
 	},
